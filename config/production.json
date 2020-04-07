@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://gnydrm:Gny6121577578@cluster0-vopss.mongodb.net/dconnector?authSource=admin&replicaSet=Cluster0-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true",
+  "jwtSecret": "mysecretkey",
+  "githubClientId": "0ca0da80bdbf25c2bb92",
+  "githubSecret": "ad2ff71d77bea522ce8bb4e3f9a2f200c223b15b"
+}
